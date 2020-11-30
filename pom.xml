@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>generic</module>
+        <module>ebay</module>
     </modules>
 
     <properties>
@@ -85,7 +86,5 @@
         </dependencies>
 
     </dependencyManagement>
-
-
 
 </project>
